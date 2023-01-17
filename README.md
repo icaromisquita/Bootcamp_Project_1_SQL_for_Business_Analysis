@@ -6,4 +6,4 @@ This repository contains the following files:
 magist_code: the queries for exploring the data </br>
 data/magist_dump.sql: the data that can be loaded into MySQL </br>
 basic_sql_challenges.sql: A basic challenge used to learn and train my SQL knowledge </br>
-advanced_sql_challenges: A little more advanced challenge used further develop my SQL knowledge 
+advanced_sql_challenges: A little more advanced challenge used to further develop my SQL knowledge </br>
